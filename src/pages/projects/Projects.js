@@ -6,7 +6,6 @@ import PublicationCard from "../../components/publicationsCard/PublicationCard";
 import TopButton from "../../components/topButton/TopButton";
 import { Fade } from "react-reveal";
 import {
-  greeting,
   projectsHeader,
   publicationsHeader,
   publications,
