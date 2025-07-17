@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "Siti web aziendali & CMS",
+      "createdAt": "",
+      "url": "",
+      "description": "realizzazione di piattaforme completamente personalizzate, aggiornabili con CMS nativi e WordPress.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Wordpress",
+          "iconifyClass": "skill-icons:wordpress"
+        },
+  {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Ottimizzazione SEO",
+      "createdAt": "",
+      "url": "",
+      "description": "Interventi su struttura e contenuti per migliorare il posizionamento organico, incrementando visibilità e traffico",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Seo",
+          "iconifyClass": "icon-park:seo"
+        },
+
+        {
+          "name": "Ottimizzazione",
+          "iconifyClass": "streamline-ultimate-color:seo-search-graph"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Collaborazione con clienti",
+      "createdAt": "",
+      "url": "",
+      "description": "Raccolta requisiti, redazione specifiche tecniche, testing e deploy di soluzioni su misura .",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Collaborazione",
+          "iconifyClass": "streamline-freehand-color:collaboration-team-chat"
+        },
+        {
+          "name": "Idee",
+          "iconifyClass": "streamline-color:collaborations-idea-flat"
+        },
+        {
+          "name": "Date",
+          "iconifyClass": "streamline-stickies-color:date-time-setting"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Supporto tecnico & manutenzione",
+      "createdAt": "",
+      "url": "",
+      "description": "Debug, aggiornamenti, upgrade funzionali e assistenza post-lancio .",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Supporto",
+          "iconifyClass": "streamline-freehand-color:help-headphones-customer-support-human"
+        },
+        {
+          "name": "Debug",
+          "iconifyClass": "material-icon-theme:folder-debug"
+        },
+        {
+          "name": "Supporto",
+          "iconifyClass": "garden:wordmark-support-26"
+        },
+        {
+          "name": "Manutenzione",
+          "iconifyClass": "streamline-sharp-color:customer-support-setting-flat"
+        }
+      ]
+    }
+  ]
+}
