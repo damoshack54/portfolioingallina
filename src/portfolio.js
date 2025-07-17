@@ -366,14 +366,12 @@ const projectsHeader = {
   title: "Progetti & Lavori",
   description:
     "Sono un professionista nel settore informatico con una forte passione per il web design, lo sviluppo digitale e l'organizzazione operativa. Mi occupo di progettazione, creazione e gestione di siti web, con un approccio orientato all’efficienza, alla chiarezza e all’usabilità. Negli anni ho sviluppato competenze trasversali che spaziano dall’ambito tecnico a quello gestionale, unendo precisione, autonomia e visione strategica. Lavoro con dedizione su ogni progetto, curando ogni fase: dall’analisi iniziale alle soluzioni su misura per il cliente. Mi aggiorno costantemente sulle tendenze digitali per offrire sempre soluzioni moderne, funzionali e orientate ai risultati.",
-  avatar_image_path: "projects_image.svg",
-  avatar_image_path: "people.GIF",
+ // avatar_image_path: "projects_image.svg",
+ // avatar_image_path: "people.GIF",
 };
 
 const publicationsHeader = {
-  title: "Publications",
-  description: "Some of my published Articles, Blogs and Research.",
-  avatar_image_path: "projects_image.svg",
+
 };
 
 const publications = {
@@ -399,7 +397,7 @@ const contactPageData = {
     region: "Sicilia",
     postalCode: "95124",
     streetAddress: "Centro",
-    avatar_image_path: "address_image.svg",
+    //avatar_image_path: "address_image.svg",
     //location_map_link: "https://maps.app.goo.gl/xfehLwWJzjoKARxs8",
   },
   phoneSection: {
